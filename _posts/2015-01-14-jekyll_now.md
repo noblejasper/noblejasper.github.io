@@ -7,4 +7,4 @@ title: Github上でブログとか簡単に出来すぎた
 
 このBLOGです。簡単でした。Markdownヽ(´ー｀)ノﾊﾞﾝｻﾞｰｲ
 
-:octcat:
+:octocat:
