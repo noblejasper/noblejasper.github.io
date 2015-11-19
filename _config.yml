@@ -43,7 +43,7 @@ url: http://y-i.jp
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: http://y-i.jp
+baseurl: #http://y-i.jp
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -59,7 +59,7 @@ version: v1.0.0
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
