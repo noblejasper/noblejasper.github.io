@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: のぶろぐ(最近は小指は痛くない)
+name: のぶじゃす
 
 # Short bio or description (displayed in the header)
-description: 技術の話(python, Emacs, C#, Unity3D, bash, debian) 趣味の話、駄文 細かいものはtumblr http://tumblr.y-i.jp
+description: 技術の話(python, MongoDB, AS3, Emacs, C#, Unity3D, bash, debian) など。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s.gravatar.com/avatar/d577a5e0fdc91abb7af8c66037a6bfb6?s=80
@@ -17,15 +17,15 @@ avatar: https://s.gravatar.com/avatar/d577a5e0fdc91abb7af8c66037a6bfb6?s=80
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: nobjas@gmail.com 
+  dribbble:
+  email: nobjas@gmail.com
   facebook: noble.jasper
   flickr: noble-jasper
   github: noblejasper
-  instagram: noblejasper 
+  instagram: noblejasper
   linkedin: noblejasper
-  pinterest: noblejasper 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  pinterest: noblejasper
+  rss: url# just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: noblejasper
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
@@ -33,17 +33,17 @@ footer-links:
 disqus: noblejasper
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://y-i.jp
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: http://y-i.jp
 
 #
 # !! You don't need to change any of the configuration flags below !!
