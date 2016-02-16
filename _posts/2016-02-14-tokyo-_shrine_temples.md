@@ -26,45 +26,49 @@ tags: [写真, 神社仏閣]
 
 赤坂見附の[日枝神社](http://www.hiejinja.net/)
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/6x0u2vrnYqdFtkFr93afjEEfm-AZrq1d7OB1I4NTyV8LAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 鳥居](http://y-i.jp/images/0215/DSC_0007.JPG)
 
 狛犬
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/dZg8ZUlDTXYN61YY5lgDaeU2QyVkHBfE_4Dq0a3uW5ILAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 狛犬口閉じ](http://y-i.jp/images/0215/DSC_0013.JPG)
 
 狛犬２
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/cWFkMxPLWdw178UYlm2ttF8wedoi2K0OhtECmafX73kLAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 狛犬口開き](http://y-i.jp/images/0215/DSC_0015.JPG)
 
 石垣の苔がほんのりな感じが素敵でした。
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/VU1AKAkRh4N49Ae7glxU_pc-av1neq6mDjGIEk18Rj4LAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 石垣の苔](http://y-i.jp/images/0215/DSC_0019.JPG)
 
 日枝神社の門はなんだか近代的というか都会的に感じました。
 なんだろう。メリハリが効いているというか華美過ぎず洗練されている印象。
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/l_yzhPvsMahOACe8_5wvzyv55_8VOQjX_nm_H7DYOpQLAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 正面の門](http://y-i.jp/images/0215/DSC_0035.JPG)
 
 本殿は門より厳かな印象
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/ixUmZbxy-NzKN1Zqo00LjugIucSE7iAEVuR2H5HHjHALAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 本殿](http://y-i.jp/images/0215/DSC_0041.JPG)
 
 なんでかわからなかったのですが、猿の神様らしき像が両脇にいました…
 説明とかがなかったので詳細はわからずでしたが、お母様方はとにかくナデナデしていましたｗ
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/nAUqrepxYKArQT9TLimpsHOqPtZYhGB_ARquPaTEYI4LAYspN/alt/thumb?viewBox=2560)
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/xeeC5Hj6tUwSrS1xWbe7BYwIlRQq58LBlj-XaSe8n2ULAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 猿向かって左](http://y-i.jp/images/0215/DSC_0053.JPG)
+
+![日枝神社 - 猿向かって右](http://y-i.jp/images/0215/DSC_0057.JPG)
+
 
 境内にある灯籠？って言うんでしょうか、すごく装飾がかっこ良くて思わずパシャリ。
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/Pz6x8jnUtFkJvb7ewHFVA1QvecaidG8Dd6PckQLpQRMLAYspN/alt/thumb?viewBox=2560)
+
+![日枝神社 - 灯籠](http://y-i.jp/images/0215/DSC_0055.JPG)
 
 本殿からまっすぐの階段の途中に綺麗な花が咲いていました。
 冬に咲く花なのでしょうか。花は詳しくないので名前はわからず…
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/fc1S9sbFdfDsOU-PdQ247jXavmEkqzbjp9JmrOfXtQILAYspN/alt/thumb?viewBox=2560)
+
+![日枝神社 - 花](http://y-i.jp/images/0215/DSC_0066.JPG)
 
 最初のとは別の鳥居から出てきました。
 
-![](https://content-jp.drive.amazonaws.com/cdproxy/templink/ENgjz3ueEZI0F_s569LxCH29lueC3ei-Els62wOeEBkLAYspN/alt/thumb?viewBox=2560)
+![日枝神社 - 正面鳥居](http://y-i.jp/images/0215/DSC_0071.JPG)
 
 この後２つ神社を回ったのですが（他の写真はまた後日）、
 日枝神社はなんだか入り口のインパクトがめっちゃ強いですね。
