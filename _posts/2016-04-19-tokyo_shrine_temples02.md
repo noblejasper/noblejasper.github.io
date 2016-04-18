@@ -14,17 +14,17 @@ tags: [写真, 神社仏閣]
 
 鳥居をくぐると、森。
 
-![明治神宮 - 参道1](http://y-i.jp/images/DSC_0104.JPG)
+![明治神宮 - 参道1](http://y-i.jp/images/0215/DSC_0104.JPG)
 
-![明治神宮 - 参道2](http://y-i.jp/images/DSC_0107.JPG)
+![明治神宮 - 参道2](http://y-i.jp/images/0215/DSC_0107.JPG)
 
 途中には鳥居
 
-![明治神宮 - 鳥居2](http://y-i.jp/images/DSC_0114.JPG)
+![明治神宮 - 鳥居2](http://y-i.jp/images/0215/DSC_0114.JPG)
 
 さらに鳥居。
 
-![明治神宮 - 鳥居3](http://y-i.jp/images/DSC_0115.JPG)
+![明治神宮 - 鳥居3](http://y-i.jp/images/0215/DSC_0115.JPG)
 
 ここまでで結構長いです。実は人生で初めて明治神宮に行ったのですが、
 まじかよ！ってぐらい広かった、長かった。。。
@@ -33,13 +33,13 @@ tags: [写真, 神社仏閣]
 
 歴史を感じる大きな門をくぐります。
 
-![明治神宮 - 門](http://y-i.jp/images/DSC_0125.JPG)
+![明治神宮 - 門](http://y-i.jp/images/0215/DSC_0125.JPG)
 
 ひ、広い！
 
-![明治神宮 - なんというか広い場所](http://y-i.jp/images/DSC_0146.JPG)
+![明治神宮 - なんというか広い場所](http://y-i.jp/images/0215/DSC_0146.JPG)
 
-![明治神宮 - 行灯？](http://y-i.jp/images/DSC_0137.JPG)
+![明治神宮 - 行灯？](http://y-i.jp/images/0215/DSC_0137.JPG)
 
 明治神宮はこんな感じです。お賽銭をあげる所より先は行けないようになっていました。
 
