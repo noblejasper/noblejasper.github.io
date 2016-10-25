@@ -4,6 +4,8 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
-gem 'jekyll-archives'
-gem 'jemoji'
+group :jekyll_plugins do
+  gem 'jekyll-archives'
+  gem 'jemoji'
+end
 #gem 'bootstrap-sass'
