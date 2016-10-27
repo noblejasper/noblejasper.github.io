@@ -16,3 +16,8 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+    <meta property="og:type" content="article"/>
+
+    <meta itemprop="name" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}"/>
+    <meta property="og:site_name" content="{{ site.name }} – {{ site.description }}"/>

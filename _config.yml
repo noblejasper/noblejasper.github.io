@@ -81,6 +81,12 @@ exclude:
   - README.md
   - CNAME
 
+feed:
+  path: atom.xml
+
+author:
+  twitter: noblejasper
+
 jekyll-archives:
   layout: 'archive'
   enabled:
